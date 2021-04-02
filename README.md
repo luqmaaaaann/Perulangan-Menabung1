@@ -1,4 +1,4 @@
-# Perulangan-Menabung1
+# ContohPerulangan
 Perulangan Menabung1
 Di pagi hari Adi sedang mengumpulkan uang untuk membeli sebuah rumah dengan istrinya. Dia menabung
 selama beberapa bulan dengan jumlah tertentu. Dia berhenti menabung setelah uangnya cukup untuk
